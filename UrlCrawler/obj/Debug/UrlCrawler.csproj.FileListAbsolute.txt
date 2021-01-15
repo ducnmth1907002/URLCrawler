@@ -1,0 +1,52 @@
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe.config
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csprojAssemblyReference.cache
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CoreCompileInputs.cache
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CopyComplete
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.exe
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe.config
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.pdb
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.pdb
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.pdb
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csprojAssemblyReference.cache
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CoreCompileInputs.cache
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CopyComplete
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.exe
+E:\FPT Aptech\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.pdb
